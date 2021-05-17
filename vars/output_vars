@@ -1,11 +1,12 @@
-vpcid: vpc-00ea7a9f5d7626b30
-pubsub1id: subnet-09bc2124ef62ca72b
-pubsub2id: subnet-026f8265f7e6f8615
-pubsub3id: subnet-0ed50fb1814384df7
-privsub1id: subnet-0b6b29c4dc3eeb9ab
-privsub2id: subnet-04bd899a975a06512
-privsub3id: subnet-0555d912faa6f5670
-igwid: igw-035e43b71013aa648
-pubRTid: rtb-08696abf32d1de25a
-NATGWid: nat-0345fa21e82093841
-privRTid: rtb-08cfc62148924582d
+vpcid: vpc-0ff445598847cb9f1
+pubsub1id: subnet-047f9f09311a9e833
+pubsub2id: subnet-0306050c088ff8fd4
+pubsub3id: subnet-0ad3e83ee87213a17
+privsub1id: subnet-0a52a1eecd589168f
+privsub2id: subnet-04a75c4b65848531f
+privsub3id: subnet-01160bcd69ebe2fe3
+igwid: igw-042eda7aed7f23f5f
+pubRTid: rtb-0a233285f97731db2
+NATGWid: nat-044134eac06471da7
+privRTid: rtb-04f5016d1eb173d07
+
